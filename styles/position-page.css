@@ -39,10 +39,7 @@ nav li::after {
     margin-left: 5px;
 }
 
-main {
-    padding-top: 90px;
-    min-width: 1000px;
-}
+
 
 .box {
     margin-top: 150px;
